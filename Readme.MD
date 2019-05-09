@@ -5,4 +5,4 @@
  - ps:`docker run --name mycorewebtest_dahai --rm -it -p 8080:80 mycorewebtest`
 - http://localhost:8080/ 直接访问
 
-![DockerFile配置](https://github.com/HvaiY/DockerPublishAspNetCore/blob/master/DockerFile_info.png,"DockerFile说明")
+![DockerFile配置](https://github.com/HvaiY/DockerPublishAspNetCore/blob/master/DockerFile_info.png "DockerFile说明")
