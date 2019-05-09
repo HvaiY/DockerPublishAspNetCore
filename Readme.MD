@@ -1,8 +1,11 @@
-# Docker Test ²¿Êğ
+# Docker Test éƒ¨ç½²
 
-- ¹¹½¨ÍêDockerFile Ö®ºó¿ÉÒÔÖ±½ÓÔËĞĞ
+- æ„å»ºå®ŒDockerFile ä¹‹åå¯ä»¥ç›´æ¥è¿è¡Œ
  - ps:`docker build -t mycorewebtest .`
  - ps:`docker run --name mycorewebtest_dahai --rm -it -p 8080:80 mycorewebtest`
-- http://localhost:8080/ Ö±½Ó·ÃÎÊ
+- http://localhost:8080/ ç›´æ¥è®¿é—®
 
-![DockerFileÅäÖÃ](https://github.com/HvaiY/DockerPublishAspNetCore/blob/master/DockerFile_info.png "DockerFileËµÃ÷")
+![DockerFileé…ç½®](https://github.com/HvaiY/DockerPublishAspNetCore/blob/master/DockerFile_info.png "DockerFileè¯´æ˜")
+
+## dockerä¸‹è½½è¯¥é•œåƒ
+ - `docker pull hvai/mycorewebtest`
